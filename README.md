@@ -24,8 +24,10 @@ Our full-stack web development and machine learning curriculum is completely fre
 
 ### Certifications
 
-making some small changes in the README file to test the indidvidual code testing repository
-making another smaller change to see if this will add to my contribution graph
+(making any kind of changes to the main graph will not be seen as a personal contribution of
+so all the change to the readme graph made above will not be shown as a contribution in personal github portfolio)
+
+-- ignore the above two lines changes made to the README.md file -- the main content will be uploaded and changes will be synced later
 
 freeCodeCamp.org offers several free developer certifications. Each of these certifications involves building 5 required web app projects, along with hundreds of optional coding challenges to help you prepare for those projects. We estimate that each certification will take a beginner programmer around 300 hours to earn.
 
